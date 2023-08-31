@@ -5,20 +5,19 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".SplashActivity"
-    android:layout_gravity="center_vertical">
-
+    android:gravity="center_vertical"
+    tools:context=".SplashActivity">
     <ImageView
+        android:id="@+id/imgLogo"
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_gravity="center_horizontal"
-        android:src="@drawable/model"
-
-        />
+        android:scaleType="centerCrop"
+        android:src="@drawable/drone" />
     <ProgressBar
         android:id="@+id/pgbLogo"
-        android:layout_height="wrap_content"
         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
         />
-
 </LinearLayout>
