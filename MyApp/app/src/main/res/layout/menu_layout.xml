@@ -100,7 +100,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/drone" />
+                    android:src="@drawable/curiosidades" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -131,7 +131,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/drone" />
+                    android:src="@drawable/aerodromo" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -169,7 +169,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/drone" />
+                    android:src="@drawable/eventos" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -200,7 +200,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="150dp"
                     android:scaleType="centerCrop"
-                    android:src="@drawable/drone" />
+                    android:src="@drawable/pilotos" />
 
                 <TextView
                     android:layout_width="wrap_content"
